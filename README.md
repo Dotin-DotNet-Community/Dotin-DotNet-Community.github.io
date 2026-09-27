@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>🚀 Dotin Monthly Code Challenge</h1>
+  <h1>🚀 Dotin .NET Challenge</h1>
   <p><strong>"One challenge. Multiple ways to stand out."</strong></p>
   <br>
 </div>
